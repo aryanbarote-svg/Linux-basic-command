@@ -29,3 +29,4 @@ chmod 444 secure.txt
 ## Q7: Environment Variables
 export MY_VAR="hello_linux"  
 echo $MY_VAR
+
